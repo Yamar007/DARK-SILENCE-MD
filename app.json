@@ -8,19 +8,19 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "DARK-SILENCE-MD~iYAGlKaR#OaMKYydXGTS4PWoNcKIkY0yVqh8jxE81b8CpHgK9WCg"
     },  
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
-      "required": true,
+      "required": false,
       "value": "https://files.catbox.moe/9vg76j"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 🤍💫💨"
+      "value": "Yusuf-𝕄𝔻 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 🤍💫💨"
     },
     
     "PREFIX": {
@@ -32,7 +32,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -44,13 +44,13 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -62,7 +62,7 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "ANTI_BAD": {
@@ -86,13 +86,13 @@
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃✦"
+      "value": "✦Yusuf-𝐌𝐃✦"
     }, 
 
     "HEART_REACT": {
@@ -110,31 +110,31 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐈𝐋𝐄𝐍𝐓𝐋𝐎𝐕𝐄𝐑432"
+      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 YusufMD"
     }, 
     
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "🂱 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐀𝐍𝐃 𝐋𝐈𝐊𝐄 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝐖𝐈𝐀 𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃 🂱"
+      "value": ""
     },
     
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ALWAYS_ONLINE": {
       "description": "make it true if you want to show always online.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
     
     "FAKE_TYPING": {
       "description": "make it true if you want to show fake typing.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
     
     "CURRENT_STATUS": {
@@ -152,19 +152,19 @@
     "STATUS_REACT": {
       "description": "make it true if you want to show on status react.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923096287432"
+      "value": "237672114754"
     }, 
 
     "OWNER_NAME": {
       "description": "replace it with your own name.",
       "required": false,
-      "value": "➺ѕเℓεɳƭ_ℓσѵε૨࿐"
+      "value": "➺Yusuf࿐"
      },
 
     "INBOX_BLOCK": {
